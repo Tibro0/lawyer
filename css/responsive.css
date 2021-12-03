@@ -228,6 +228,15 @@
         transform: translate(0%, 600%)
       }
       /* what-we-do section coad end */
+      /* our-attorneys section coad start */
+      .our-attorneys .title{
+        text-align: center;
+        margin-bottom: 30px;
+      }
+      .our-attorneys .title h2{
+        font-size: 28px;
+      }
+      /* our-attorneys section coad end */
       /* language section coad start */
       .language .title h2{
         font-size: 28px;
