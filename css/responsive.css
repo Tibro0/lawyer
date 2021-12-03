@@ -194,5 +194,56 @@
   @media (min-width: 320px) and (max-width: 480px) {
     
     /* CSS */
-    
+    /* header section coad start */
+    .header .navbar-light .navbar-nav .nav-link{
+      margin: 10px 0px 0px;
+      }
+      .banner .banner-inner h1{
+        font-size: 27px;
+      }
+      /* header section coad end */
+      /* how-we-are section coad start */
+      .how-we-are .title{
+        text-align: center;
+      }
+      .how-we-are .title h2{
+        margin-bottom: 30px;
+        font-size: 28px;
+      }
+      .how-we-are .title p:last-child{
+        margin-bottom: 30px;
+      }
+      /* how-we-are section coad end */
+      /* what-we-do section coad start */
+      .what-we-do .title h2{
+        font-size: 28px;
+      }
+      .what-we-do .card{
+        margin-bottom: 30px;
+      }
+      .what-we-do .card-body .card-title{
+        font-size: 28px;
+      }
+      .what-we-do .card-body .arrow{
+        transform: translate(0%, 600%)
+      }
+      /* what-we-do section coad end */
+      /* language section coad start */
+      .language .title h2{
+        font-size: 28px;
+      }
+      .language .language-inner{
+        margin-bottom: 30px;
+      }
+      /* language section coad end */
+      /* footer section coad start */
+      .footer-text {
+        font-size: 14px;
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      .footer .footer-icon {
+        text-align: center;
+      }
+      /* footer section coad end */
   }
