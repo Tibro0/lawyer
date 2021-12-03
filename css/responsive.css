@@ -1,0 +1,198 @@
+    /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* CSS */
+    /* header section coad start */
+    .header .navbar-light .navbar-nav .nav-link{
+        font-size: 11px;
+    }
+    /* header section coad end */
+    /* what-we-do section coad start */
+    .what-we-do .card-body .card-title{
+        font-size: 25px;
+    }
+    .what-we-do .card-body .arrow{
+        transform: translate(-50%, 600%)
+    }
+    /* what-we-do section coad end */
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* CSS */
+    /* header section coad start */
+    .header .navbar-light .navbar-nav .nav-link{
+        margin: 10px 0px 0px;
+    }
+    /* header section coad end */
+    /* how-we-are section coad start */
+    .how-we-are .title{
+      text-align: center;
+    }
+    .how-we-are .title h2{
+      margin-bottom: 30px;
+    }
+    .how-we-are .title p:last-child{
+      margin-bottom: 30px;
+    }
+    /* how-we-are section coad end */
+    /* what-we-do section coad start */
+    .what-we-do .card{
+      margin-bottom: 30px;
+    }
+    .what-we-do .card-body .arrow{
+      transform: translate(0%, 1350%)
+    }
+    /* what-we-do section coad end */
+    /* our-attorneys section coad start */
+    .our-attorneys .title{
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    /* our-attorneys section coad end */
+    /* language section coad start */
+    .language .language-inner{
+      margin-bottom: 30px;
+    }
+    /* language section coad end */
+    /* footer section coad start */
+    .footer-text{
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .footer .footer-icon {
+      text-align: center;
+    }
+    /* footer section coad end */
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* CSS */
+     /* header section coad start */
+     .header .navbar-light .navbar-nav .nav-link{
+      margin: 10px 0px 0px;
+      }
+      /* header section coad end */
+      /* how-we-are section coad start */
+      .how-we-are .title{
+        text-align: center;
+      }
+      .how-we-are .title h2{
+        margin-bottom: 30px;
+      }
+      .how-we-are .title p:last-child{
+        margin-bottom: 30px;
+      }
+      /* how-we-are section coad end */
+      /* what-we-do section coad start */
+      .what-we-do .card{
+        margin-bottom: 30px;
+      }
+      .what-we-do .card-body .arrow{
+        transform: translate(0%, 1350%)
+      }
+      /* what-we-do section coad end */
+      /* our-attorneys section coad start */
+      .our-attorneys .title{
+        text-align: center;
+        margin-bottom: 30px;
+      }
+      /* our-attorneys section coad end */
+      /* language section coad start */
+      .language .language-inner{
+        margin-bottom: 30px;
+      }
+      /* language section coad end */
+      /* footer section coad start */
+      .footer-text{
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      .footer .footer-icon {
+        text-align: center;
+      }
+      /* footer section coad end */
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* CSS */
+    /* header section coad start */
+    .header .navbar-light .navbar-nav .nav-link{
+      margin: 10px 0px 0px;
+      }
+      .banner .banner-inner h1{
+        font-size: 43px;
+      }
+      /* header section coad end */
+      /* how-we-are section coad start */
+      .how-we-are .title{
+        text-align: center;
+      }
+      .how-we-are .title h2{
+        margin-bottom: 30px;
+      }
+      .how-we-are .title p:last-child{
+        margin-bottom: 30px;
+      }
+      /* how-we-are section coad end */
+      /* what-we-do section coad start */
+      .what-we-do .card{
+        margin-bottom: 30px;
+      }
+      .what-we-do .card-body .arrow{
+        transform: translate(0%, 1350%)
+      }
+      /* what-we-do section coad end */
+      /* our-attorneys section coad start */
+      .our-attorneys .title{
+        text-align: center;
+        margin-bottom: 30px;
+      }
+      /* our-attorneys section coad end */
+      /* language section coad start */
+      .language .language-inner{
+        margin-bottom: 30px;
+      }
+      /* language section coad end */
+      /* footer section coad start */
+      .footer-text{
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      .footer .footer-icon {
+        text-align: center;
+      }
+      /* footer section coad end */
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /* CSS */
+    
+  }
